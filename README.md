@@ -1,0 +1,2 @@
+# capacitacionGit
+primer repositorio git
